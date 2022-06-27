@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning Kubernetes.
 - 💬 Ask me anything about Big Data and Cloud Native.
 
-<img src="https://github-readme-stats.vercel.app/api?username=qian0817&show_icons=true&count_private=true&hide_title=true" alt="qian0817 github stats">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qian0817&layout=compact&hide=css,html" alt="uyamazak top languages">
+<img src="https://github-readme-stats.vercel.app/api?username=qian0817&show_icons=true&count_private=true&hide_title=true" alt="qian0817 github stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qian0817&layout=compact&hide=css,html" alt="uyamazak top languages">
